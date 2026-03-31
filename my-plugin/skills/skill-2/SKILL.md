@@ -1,5 +1,5 @@
 ---
-name: skil-2
+name: skill-2
 description: do something with skill 2
 ---
 # Overview
